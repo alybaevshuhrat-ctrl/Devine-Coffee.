@@ -62,3 +62,13 @@ footer {
   text-align: center;
   background: #eee3d5;
 }
+.order-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 20px;
+  border-radius: 8px;
+  background: white;
+  color: #4b3023;
+  font-weight: bold;
+  text-decoration: none;
+}
